@@ -8,13 +8,21 @@ Solutions for OJ such as leetcode, poj and so on
 ====
 
 Java版本解答
+
 1，java/addtwosum
+
     https://leetcode.com/problems/two-sum/
+    
 2, java/counttosay
+
     https://leetcode.com/problems/count-and-say/
+    
 3, java/dungenegame
+
     https://leetcode.com/problems/dungeon-game/
+    
 4, java/findminrotaed
     
 5, java/houserobber
+
     https://leetcode.com/problems/house-robber/
